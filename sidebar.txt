@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[leq:home|Door43 (leq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-leq|d43-leq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-leq/archive/master.zip|d43-leq.zip]]
+
+**Recent Changes**
+{{changes>ns = leq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/leq|Ethnologue data]]
+
